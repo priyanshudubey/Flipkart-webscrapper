@@ -1,6 +1,6 @@
 # Flipkart-webscrapper
 
-This is a very small web scrapper code written in Python3 with the help of ButifulSoup. <br />
+This is a very small web scrapper code written in `Python3` with the help of ButifulSoup. <br />
 This code will give you the following thing:
 - Mobile Name
 - Mobile Price
